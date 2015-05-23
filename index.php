@@ -9,7 +9,7 @@
     <div class="container">
     	
     <header class="row header">
-      <h1>==Basic Site==</h1>
+      <h1>=Basic Site=</h1>
     </header>
 
 	<section class="row" id='nav_content_container'>
